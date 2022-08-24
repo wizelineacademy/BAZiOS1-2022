@@ -16,5 +16,13 @@ Semana 1 - Fundamentals
 
 
 
-# IV. Proyecto Final (Capstone Project)
+# IV. Agenda tu mentoria
+
+- Mentor 1
+- Mentor 2
+- Mentor 3
+- Mentor 4
+- Mentor 5
+
+# V. Proyecto Final (Capstone Project)
 
