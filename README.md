@@ -1,11 +1,11 @@
 # Digital Skills Accelerator Training - Mobile iOS
 
-** I. Bienvenida**
+# I. Bienvenida
 
-** II. Información general del entrenamiento**
+# II. Información general del entrenamiento
 
 
-** III. Curricula del entrenamiento**
+# III. Curricula del entrenamiento
 
 
 *Fundamentals*
@@ -13,3 +13,9 @@
 - Optional Chaining y Optional Binding
 - Manejo de colecciones
 - Xcode Básico (Interface, Navigator, Editor, Debugging, Manejo de Memoria, Creación de Carpetas)
+
+Material Autoestudio
+
+
+# IV. Proyecto Final (Capstone Project)
+
