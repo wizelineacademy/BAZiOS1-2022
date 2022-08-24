@@ -15,8 +15,6 @@ Semana 1 - Fundamentals
 - Opcionales y manejo de colecciones
 
 
-Material Autoestudio
-
 
 # IV. Proyecto Final (Capstone Project)
 
