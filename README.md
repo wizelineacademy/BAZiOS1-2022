@@ -8,7 +8,8 @@
 # III. Curricula del entrenamiento
 
 
-*Sesiones*
+*Sesiones**
+
 Semana 1 - Fundamentals
 - Introducción a Swift
 - Opcionales y manejo de colecciones
