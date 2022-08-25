@@ -30,9 +30,9 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 - Introducción a Swift
 - Opcionales y manejo de colecciones
 
+# IV. Proyecto Final (Capstone Project)
 
-
-# IV. Agenda tu mentoria
+# V. Agenda tu mentoria
 
 - Mentor 1
 - Mentor 2
@@ -40,5 +40,8 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 - Mentor 4
 - Mentor 5
 
-# V. Proyecto Final (Capstone Project)
+# VI. Contacto Wizeline Academy
+Si tienes alguna duda sobre el programa, logística, accesos, etc. por favor contacta al equipo de Wizeline Academy
+Email: [baz-dsa@wizeline.com] (baz-dsa@wizeline.com)
+
 
