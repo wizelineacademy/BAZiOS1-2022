@@ -15,22 +15,18 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 **Mentorías On Demand**
 - Estas serán sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son sobre demanda. Mas abajo estan las instrucciones y ligas para solicitar una sesión.
 
-**Mentorías Grupales**
-- Son sesiones de mentoría en sitio que se llevarán después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías será de 2 horas.
-
 **Ruta de Autoaprendizaje**
 - Esto es una recopilación de recursos (artículos, videos, audios) que pondremos a tu disposición para que complementes tu aprendizaje.
 
 **Proyecto Final (Capstone Project)**
 - Este será un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento. 
 
-
 # III. Curricula del entrenamiento
+Los temas estan divididos en 6 semanas, 3 sesiones por semana. 
 
+## :bookmark_tabs: Sesiones
 
-*Sesiones*
-
-Semana 1 - Fundamentals
+### Semana 1 - Fundamentals
 - Introducción a Swift
 - Opcionales y manejo de colecciones
 
