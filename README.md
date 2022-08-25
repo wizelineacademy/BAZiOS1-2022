@@ -30,9 +30,25 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 - Introducción a Swift
 - Opcionales y manejo de colecciones
 
+### Semana 2 - 
+
+### Semana 3 - 
+
+### Semana 4 - 
+
+### Semana 5 - 
+
+### Semana 6 -
+
 # IV. Proyecto Final (Capstone Project)
+**Objetivo**
+Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzaras y aplicaras los conocimientos que vas adquiriendo 
+
+Aqui encontrarás las instrucciones para completar tu Projecto final.
 
 # V. Agenda tu mentoria
+Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, sigue estas instrucciones:
+- Selecciona la liga de abajo de cualquiera de los mentores
 
 - Mentor 1
 - Mentor 2
