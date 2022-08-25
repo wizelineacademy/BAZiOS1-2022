@@ -27,8 +27,9 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 ## :bookmark_tabs: Sesiones
 
 ### Semana 1 - Fundamentals
-- Introducción a Swift
-- Opcionales y manejo de colecciones
+    1. [Historia de la web](pre-curso/modulo_1/sesion_1.1)
+    2. [Aplicaciones web](pre-curso/modulo_1/sesion_1.2)
+    3. [Frontend](pre-curso/modulo_1/sesion_1.3)
 
 ### Semana 2 - 
 
