@@ -1,12 +1,12 @@
 # Digital Skills Accelerator Training - Mobile iOS
 
-## I. Bienvenida
+# I. Bienvenida
 Bienvenido a tu capacitación de Mobile IOS la cual consta de 6 semanas de entrenamiento.
 
-## II. Información general del entrenamiento
+# II. Información general del entrenamiento
 El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento constará de los siguientes elementos: 
 
-**Sesiones en Vivo** 
+## Sesiones en Vivo 
 - Estas serán clases presenciales que impartirán ingenieros de Wizeline, las sesiones tienen una duración de 2 horas. 
 **Mentorías Grupales** 
 - Son sesiones de mentoría en sitio que se llevarán después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías será de 2 horas. 
@@ -20,7 +20,7 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 - Este será un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento. 
 
 
-## III. Curricula del entrenamiento
+# III. Curricula del entrenamiento
 
 
 *Sesiones*
@@ -31,7 +31,7 @@ Semana 1 - Fundamentals
 
 
 
-## IV. Agenda tu mentoria
+# IV. Agenda tu mentoria
 
 - Mentor 1
 - Mentor 2
@@ -39,5 +39,5 @@ Semana 1 - Fundamentals
 - Mentor 4
 - Mentor 5
 
-## V. Proyecto Final (Capstone Project)
+# V. Proyecto Final (Capstone Project)
 
