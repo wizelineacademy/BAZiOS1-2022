@@ -42,6 +42,7 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 
 # VI. Contacto Wizeline Academy
 Si tienes alguna duda sobre el programa, logística, accesos, etc. por favor contacta al equipo de Wizeline Academy
+
 Email: [baz-dsa@wizeline.com](baz-dsa@wizeline.com)
 
 
