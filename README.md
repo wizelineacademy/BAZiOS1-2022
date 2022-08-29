@@ -42,7 +42,7 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 ### Semana 6 -
 
 # IV. Proyecto Final (Capstone Project)
-**Objetivo**
+✴️ **Objetivo**
 Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzaras y aplicaras los conocimientos que vas adquiriendo 
 
 Aqui encontrarás las instrucciones para completar tu Projecto final.
@@ -56,7 +56,7 @@ Selecciona la liga de abajo de cualquiera de los mentores
 - [Uriel Pachecho](uriel.pacheco@wizeline.com)
 - [Ana Anguiano](michel.torres@wizeline.com)
 - [Michel Torres](ana.anguiano@wizeline.com)
-- [Alejandro Martínez](alejandro.mb@wizeline.com)
+- Mentoria con [Alejandro Martínez](https://calendly.com/alejandro-mb/mentorias-baz)
 
 
 # VI. Contacto Wizeline Academy
