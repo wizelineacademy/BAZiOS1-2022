@@ -31,15 +31,69 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
    2. [Opcionales y manejo de colecciones](curso/semana_1/sesion_1.2)
    3. [Frontend](pre-curso/modulo_1/sesion_1.3)
 
-### Semana 2 - 
+2. Optional Chaining y Optional Binding
 
-### Semana 3 - 
+3. Manejo de colecciones
 
-### Semana 4 - 
+4. Xcode Básico (Interface, Navigator, Editor, Debugging, Manejo de Memoria, Creación de Carpetas) "
 
-### Semana 5 - 
 
-### Semana 6 -
+### Semana 2 - GIT y Value Types & Reference Types
+1. Install
+
+2. Configuration
+
+3. Folders
+
+4. Staging Environment
+
+5. Merge
+
+6. Branch
+
+7. Commit
+
+8. Mejores prácticas 
+
+9. Errores comunes
+
+10. Static e Instance Methods
+
+
+### Semana 3 - Protocolos y Delegados
+1. Protocolos y delegados (fundamentos)
+
+2. Herencia
+
+3. Access Control 
+
+### Semana 4 - UIKit y Manejo de Xcode
+1. Nib y Storyboards
+
+2. Ciclo de Vida
+
+Controles básicos
+
+3. Label
+4. Button
+5. ImageView
+6. Text View
+7. Switch
+8. Slider
+9. Stepper
+10. Segmented Control 
+
+### Semana 5 - Closures y Extensiones
+1. Global functions
+
+2. Nested functions
+
+3. Closure expression
+
+### Semana 6 - ARC
+1. Memory Mangement with ARC
+
+2. Strong Reference Cycles
 
 # IV. Proyecto Final (Capstone Project)
 ✴️ **Objetivo**
@@ -51,7 +105,7 @@ Aqui encontrarás las instrucciones para completar tu Projecto final.
 Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, sigue estas instrucciones:
 Selecciona la liga de abajo de cualquiera de los mentores
 
-
+### Semana 1
 - [Jorege Benavides](jorge.benavides@wizeline.com) 
 - [Uriel Pachecho](uriel.pacheco@wizeline.com)
 - [Ana Anguiano](michel.torres@wizeline.com)
