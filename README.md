@@ -49,7 +49,7 @@ Aqui encontrarás las instrucciones para completar tu Projecto final.
 
 # V. Agenda tu mentoria
 Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, sigue estas instrucciones:
-- Selecciona la liga de abajo de cualquiera de los mentores
+Selecciona la liga de abajo de cualquiera de los mentores
 
 
 - [Jorege Benavides](jorge.benavides@wizeline.com) 
