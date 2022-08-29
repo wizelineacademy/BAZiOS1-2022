@@ -106,10 +106,10 @@ Si deseas una tener una mentoria personalizada en línea con alguno de los mento
 Selecciona la liga de abajo de cualquiera de los mentores
 
 ### Semana 1
-- [Jorege Benavides](jorge.benavides@wizeline.com) 
-- [Uriel Pachecho](uriel.pacheco@wizeline.com)
-- [Ana Anguiano](michel.torres@wizeline.com)
-- [Michel Torres](ana.anguiano@wizeline.com)
+- [Jorege Benavides](https://calendly.com/) 
+- [Uriel Pachecho](https://calendly.com/)
+- [Ana Anguiano](https://calendly.com/)
+- [Michel Torres](https://calendly.com/)
 - Mentoria con [Alejandro Martínez](https://calendly.com/alejandro-mb/mentorias-baz)
 
 
