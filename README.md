@@ -106,7 +106,7 @@ Si deseas una tener una mentoria personalizada en línea con alguno de los mento
 
 Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendario con la disponibilidad por dia y horarios. Elige el que mejor se acomode a tu necesidad.
 
-- [Jorege Benavides](https://calendly.com/jorge-benavides/baz-mentoria)
+- [Jorge Benavides](https://calendly.com/jorge-benavides/baz-mentoria)
 - [Uriel Pachecho](https://calendly.com/)
 - [Ana Anguiano](https://calendly.com/)
 - [Michel Torres](https://calendly.com/)
