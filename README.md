@@ -27,8 +27,8 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 ## :bookmark_tabs: Sesiones
 
 ### Semana 1 - Fundamentals
-   1. [Historia de la web]([pre-curso/modulo_1/sesion_1.1](https://github.com/wizelineacademy/web-development-bootcamp-course/tree/main/pre-curso/modulo_1/sesion_1.1)) poner un branch de este main con el material del tema de cada dia.
-   2. [Aplicaciones web](pre-curso/modulo_1/sesion_1.2)
+   1. [Introducción a Swift](curso/semana_1/sesion_1.1)
+   2. [Opcionales y manejo de colecciones](curso/semana_1/sesion_1.2)
    3. [Frontend](pre-curso/modulo_1/sesion_1.3)
 
 ### Semana 2 - 
@@ -63,5 +63,3 @@ Selecciona la liga de abajo de cualquiera de los mentores
 Si tienes alguna duda sobre el programa, logística, accesos, etc. por favor contacta al equipo de Wizeline Academy
 
 Email: [baz-dsa@wizeline.com](baz-dsa@wizeline.com)
-
-
