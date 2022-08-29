@@ -110,7 +110,7 @@ Selecciona la liga de abajo de cualquiera de los mentores
 - [Uriel Pachecho](https://calendly.com/)
 - [Ana Anguiano](https://calendly.com/)
 - [Michel Torres](https://calendly.com/)
-- Mentoria con [Alejandro Martínez](https://calendly.com/alejandro-mb/mentorias-baz)
+- [Alejandro Martínez](https://calendly.com/alejandro-mb/mentorias-baz)
 
 
 # VI. Contacto Wizeline Academy
