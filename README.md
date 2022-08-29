@@ -51,23 +51,13 @@ Aqui encontrarás las instrucciones para completar tu Projecto final.
 Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, sigue estas instrucciones:
 - Selecciona la liga de abajo de cualquiera de los mentores
 
-### Semana 1 - Fundamentals
 
-- email: jorge.benavides@wizeline.com, github: jorge-benavides
-- email: uriel.pacheco@wizeline.com, github: victorurielp
-- email: michel.torres@wizeline.com, github: mtorres0
-- email: ana.anguiano@wizeline.com, github: anaacruz
+- [Jorege Benavides](jorge.benavides@wizeline.com) 
+- [Uriel Pachecho](uriel.pacheco@wizeline.com)
+- [Ana Anguiano](michel.torres@wizeline.com)
+- [Michel Torres](ana.anguiano@wizeline.com)
+- [Alejandro Martínez](alejandro.mb@wizeline.com)
 
-
-### Semana 2 - 
-
-### Semana 3 - 
-
-### Semana 4 - 
-
-### Semana 5 - 
-
-### Semana 6 -
 
 # VI. Contacto Wizeline Academy
 Si tienes alguna duda sobre el programa, logística, accesos, etc. por favor contacta al equipo de Wizeline Academy
