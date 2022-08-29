@@ -27,7 +27,9 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 ## :bookmark_tabs: Sesiones
 
 ### Semana 1 - Fundamentals
-1. Variables, Constantes y tipos de datos (validación de datos nulos)
+   1. [Introducción a Swift](curso/semana_1/sesion_1.1)
+   2. [Opcionales y manejo de colecciones](curso/semana_1/sesion_1.2)
+   3. [Frontend](pre-curso/modulo_1/sesion_1.3)
 
 2. Optional Chaining y Optional Binding
 
@@ -94,7 +96,7 @@ Controles básicos
 2. Strong Reference Cycles
 
 # IV. Proyecto Final (Capstone Project)
-**Objetivo**
+✴️ **Objetivo**
 Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzaras y aplicaras los conocimientos que vas adquiriendo 
 
 Aqui encontrarás las instrucciones para completar tu Projecto final.
@@ -104,16 +106,14 @@ Si deseas una tener una mentoria personalizada en línea con alguno de los mento
 Selecciona la liga de abajo de cualquiera de los mentores
 
 ### Semana 1
-- [Jorge Benavides](jorge.benavides@wizeline.com) 
-- [Uriel Pachecho](uriel.pacheco@wizeline.com)
-- [Ana Anguiano](ana.anguiano@wizeline.com) 
-- [Michel Torres](michel.torres@wizeline.com) 
-- [Alejandro Martínez](alejandro.mb@wizeline.com)
+- [Jorege Benavides](https://calendly.com/) 
+- [Uriel Pachecho](https://calendly.com/)
+- [Ana Anguiano](https://calendly.com/)
+- [Michel Torres](https://calendly.com/)
+- Mentoria con [Alejandro Martínez](https://calendly.com/alejandro-mb/mentorias-baz)
 
 
 # VI. Contacto Wizeline Academy
 Si tienes alguna duda sobre el programa, logística, accesos, etc. por favor contacta al equipo de Wizeline Academy
 
 Email: [baz-dsa@wizeline.com](baz-dsa@wizeline.com)
-
-
