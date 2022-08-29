@@ -104,7 +104,7 @@ Si deseas una tener una mentoria personalizada en línea con alguno de los mento
 Selecciona la liga de abajo de cualquiera de los mentores
 
 ### Semana 1
-- [Jorege Benavides](jorge.benavides@wizeline.com) 
+- [Jorge Benavides](jorge.benavides@wizeline.com) 
 - [Uriel Pachecho](uriel.pacheco@wizeline.com)
 - [Ana Anguiano](ana.anguiano@wizeline.com) 
 - [Michel Torres](michel.torres@wizeline.com) 
