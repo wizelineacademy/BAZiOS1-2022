@@ -100,6 +100,15 @@ Controles básicos
 
 2. Strong Reference Cycles
 
+## Grabaciones sesiones
+
+### Semana 1 -
+
+## Presentaciones sesiones
+
+### Semana 1 -
+
+
 # IV. Proyecto Final (Capstone Project)
 ✴️ **Objetivo**
 Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzaras y aplicaras los conocimientos que vas adquiriendo 
