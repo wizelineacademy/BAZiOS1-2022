@@ -115,7 +115,7 @@ Controles básicos
 ✴️ **Objetivo**
 Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzaras y aplicaras los conocimientos que vas adquiriendo 
 
-Aqui encontrarás las instrucciones para completar tu Projecto final.
+[Aquí](https://docs.google.com/forms/d/e/1FAIpQLSfph0PuA8ZN7U98Mm5ClAHLEI2t7z8jkZnxLXnijwYDWUEp2g/viewform) encontrarás las instrucciones para completar tu Projecto final.
 
 # V. Agenda tu mentoria 📆
 Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, sigue estas instrucciones:
