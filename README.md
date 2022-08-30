@@ -8,6 +8,8 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 
 [Calendario](https://drive.google.com/file/d/1tmsG0DMb5XgMV7ijK-9A3pWGI8cGLYpI/view?usp=sharing)
 
+[Liga Acceso Telegram grupal](https://t.me/+WP2YU0TmuTNkYTcx)
+
 **Sesiones en Vivo** 
 - Estas serán clases presenciales que impartirán ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
 - Martes y Jueves: 2pm en oficinas de Wizeline
