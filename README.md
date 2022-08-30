@@ -6,11 +6,16 @@ Bienvenido a tu capacitación de Mobile IOS la cual consta de 6 semanas de entre
 # II. Información general del entrenamiento
 El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento constará de los siguientes elementos: 
 
+[Calendario](https://drive.google.com/file/d/1tmsG0DMb5XgMV7ijK-9A3pWGI8cGLYpI/view?usp=sharing)
+
 **Sesiones en Vivo** 
 - Estas serán clases presenciales que impartirán ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
+- Martes y Jueves: 2pm en oficinas de Wizeline
+- Viernes: 9am en línea por [Zoom](https://wizeline.zoom.us/j/84493824749?pwd=dHM4c2trZE9YZzhpeUR4eVpKWit0Zz09)
 
 **Mentorías Grupales**
 - Son sesiones de mentoría en sitio que se llevarán después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías será de 2 horas.
+- Martes y Jueves: 4pm en oficinas de Wizeline
 
 **Mentorías On Demand**
 - Estas serán sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son sobre demanda. Mas abajo estan las instrucciones y ligas para solicitar una sesión.
@@ -111,6 +116,7 @@ Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendar
 - [Ana Anguiano](https://calendly.com/ana-anguiano/baz-mentoria-1-1)
 - [Michel Torres]
 - [Alejandro Martínez](https://calendly.com/alejandro-mb/mentorias-baz)
+- [Mario Salas](https://calendly.com/luis-mario-salas/baz-mentoria-1-1)
 
 
 # VI. Contacto Wizeline Academy
