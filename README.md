@@ -102,7 +102,7 @@ Controles básicos
 
 2. Strong Reference Cycles
 
-## Grabaciones sesiones
+## 📺 Grabaciones sesiones
 
 ### Semana 1 -
 
