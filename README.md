@@ -114,7 +114,7 @@ Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendar
 - [Jorge Benavides](https://calendly.com/jorge-benavides/baz-mentoria)
 - [Uriel Pachecho](https://calendly.com/wizeline-uriel-pacheco/baz-mentoria-1-1)
 - [Ana Anguiano](https://calendly.com/ana-anguiano/baz-mentoria-1-1)
-- [Michel Torres]
+- [Michel Torres](https://calendly.com/michel-torres-alonso/baz-mentoria-1-1)
 - [Alejandro Martínez](https://calendly.com/alejandro-mb/mentorias-baz)
 - [Mario Salas](https://calendly.com/luis-mario-salas/baz-mentoria-1-1)
 
