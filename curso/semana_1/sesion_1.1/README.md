@@ -1,6 +1,6 @@
 ## :clipboard: Recursos de la lección
 
-- [Introducción a Swift](https://docs.google.com/presentation/d/1q2Qsm2VhFTDvLrD_GsPXdh5LF7K_FO6lpeTBp1k6Hak/edit#slide=id.g122bd9d92f9_1_72)
+- [Introducción a Swift](https://drive.google.com/file/d/1wjF9k6weNs7a_TxiOM2S6c_UYYFx4g6z/preview)
 
 ## :computer: Actividades
 
