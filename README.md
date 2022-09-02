@@ -104,7 +104,7 @@ Controles básicos
 
 ## 📺 Grabaciones sesiones
 
-En [esta liga] encontrarás todas las grabaciones y presentaciones del curso.
+En [esta liga](https://github.com/wizelineacademy/BAZiOS12022/blob/main/Grabaciones%20y%20Presentaciones.md) encontrarás todas las grabaciones y presentaciones del curso.
 
 
 # IV. Proyecto Final (Capstone Project)
