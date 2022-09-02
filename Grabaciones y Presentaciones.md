@@ -5,7 +5,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Martes 30 Ago - Introducción a Swift](https://drive.google.com/file/d/1wjF9k6weNs7a_TxiOM2S6c_UYYFx4g6z/view?usp=sharing)
 - 📺 [Grabacion Martes 30 Ago](https://drive.google.com/file/d/1rdcJmIOvH5koUpASDvc8yK1ngJRIimrP/view?usp=sharing)
 - [Jueves 1 Sep - Opcionales y manejo de colecciones](https://drive.google.com/file/d/1yz6RahLr6pW-wRfjHBe4tAaQEivsgAdX/view?usp=sharing)
-- 📺 [Grabacion Jueves 1 Sep]
+- 📺 [Grabacion Jueves 1 Sep](https://drive.google.com/file/d/1waDnEDel4Z7L0DpBFncyaZiqU0q0NUsS/view?usp=sharing)
 - [Viernes 2 Sep - Xcode y configuracion de proyecto]
 - 📺 [Grabacion Viernes 2 Sep]
 
