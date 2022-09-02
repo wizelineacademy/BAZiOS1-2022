@@ -10,6 +10,12 @@
 - Modifica en el storyboard la previsualización en dispositivo para que sea compatible con el simulador
 - Agrega los objetos según se muestra en la imagen
 - Prueba en distintos dispositivos para revisar que los constraints sean los correctos
+- Crear una vista en donde el usuario pueda ir a un enlace utilizando un codigo QR o un URL.
+Datos de prueba:
+- URL: https://forms.gle/6vZLAv7j7X6FRdF79
+- QR:
+
+<img width="525" alt="QA-sesion3" src="https://user-images.githubusercontent.com/110190478/188180053-47cc70ca-566f-40b1-a83c-92e6016fbff9.png">
 
 
 
