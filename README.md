@@ -102,7 +102,7 @@ Controles básicos
 
 2. Strong Reference Cycles
 
-## 📺 Grabaciones sesiones
+## 📺 Grabaciones sesiones y Presentaciones
 
 En [esta liga](https://github.com/wizelineacademy/BAZiOS12022/blob/main/Grabaciones%20y%20Presentaciones.md) encontrarás todas las grabaciones y presentaciones del curso.
 
