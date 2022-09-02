@@ -7,7 +7,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 1 Sep - Opcionales y manejo de colecciones](https://drive.google.com/file/d/1yz6RahLr6pW-wRfjHBe4tAaQEivsgAdX/view?usp=sharing)
 - 📺 [Grabacion Jueves 1 Sep](https://drive.google.com/file/d/1waDnEDel4Z7L0DpBFncyaZiqU0q0NUsS/view?usp=sharing)
 - [Viernes 2 Sep - Xcode y configuracion de proyecto](https://drive.google.com/file/d/11peu6L3joAXfwvRhHyI-GA8efMStl1XF/view?usp=sharing)
-- 📺 [Grabacion Viernes 2 Sep]
+- 📺 [Grabacion Viernes 2 Sep](https://drive.google.com/file/d/1-yevD_Fnn5fth85HbPfSLxd96Oe3z1tv/view?usp=sharing)
 
 # Semana 2
 - [Martes 6 Sep - Git + Github]
