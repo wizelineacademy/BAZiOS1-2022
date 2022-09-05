@@ -66,13 +66,16 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 
 10. Static e Instance Methods
 
+11. Herencia
 
 ### Semana 3 - Protocolos y Delegados
 1. Protocolos y delegados (fundamentos)
 
-2. Herencia
+1.1 Definición de Protocolos
+1.2 Tipos de requerimientos
+1.3 Delegados y Patrón de diseño
 
-3. Access Control 
+2. Access Control 
 
 ### Semana 4 - UIKit y Manejo de Xcode
 1. Nib y Storyboards
