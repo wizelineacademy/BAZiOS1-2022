@@ -46,27 +46,9 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 
 
 ### Semana 2 - GIT y Value Types & Reference Types
-1. Install
-
-2. Configuration
-
-3. Folders
-
-4. Staging Environment
-
-5. Merge
-
-6. Branch
-
-7. Commit
-
-8. Mejores prácticas 
-
-9. Errores comunes
-
-10. Static e Instance Methods
-
-11. Herencia
+1. [Git](curso/semana_2/sesion_2.1)
+2. [Value Types & Reference Types](curso/semana_2/sesion_2.2)
+3. [Herencia](curso/semana_2/sesion_2.3)
 
 ### Semana 3 - Protocolos y Delegados
 1. Protocolos y delegados (fundamentos)
