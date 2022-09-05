@@ -46,33 +46,16 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 
 
 ### Semana 2 - GIT y Value Types & Reference Types
-1. [Install](curso/semana_2/sesion_2.1)
-
-2. [Configuration](curso/semana_2/sesion_2.1)
-
-3. [Folders](curso/semana_2/sesion_2.1)
-
-4. [Staging Environment](curso/semana_2/sesion_2.1)
-
-5. [Merge](curso/semana_2/sesion_2.1)
-
-6. [Branch](curso/semana_2/sesion_2.1)
-
-7. [Commit](curso/semana_2/sesion_2.1)
-
-8. [Mejores prácticas](curso/semana_2/sesion_2.1)
-
-9. [Errores comunes](curso/semana_2/sesion_2.1)
-
-10. [Value Types & Reference Types](curso/semana_2/sesion_2.2)
-
-11. [Herencia](curso/semana_2/sesion_2.3)
-
-12. [Static e Instance Methods](curso/semana_2/sesion_2.3)
-
+1. [Git](curso/semana_2/sesion_2.1)
+2. [Value Types & Reference Types](curso/semana_2/sesion_2.2)
+3. [Herencia](curso/semana_2/sesion_2.3)
 
 ### Semana 3 - Protocolos y Delegados
 1. Protocolos y delegados (fundamentos)
+
+1.1 Definición de Protocolos
+1.2 Tipos de requerimientos
+1.3 Delegados y Patrón de diseño
 
 2. Access Control 
 
