@@ -46,33 +46,35 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 
 
 ### Semana 2 - GIT y Value Types & Reference Types
-1. Install
+1. [Install](curso/semana_2/sesion_2.1)
 
-2. Configuration
+2. [Configuration](curso/semana_2/sesion_2.1)
 
-3. Folders
+3. [Folders](curso/semana_2/sesion_2.1)
 
-4. Staging Environment
+4. [Staging Environment](curso/semana_2/sesion_2.1)
 
-5. Merge
+5. [Merge](curso/semana_2/sesion_2.1)
 
-6. Branch
+6. [Branch](curso/semana_2/sesion_2.1)
 
-7. Commit
+7. [Commit](curso/semana_2/sesion_2.1)
 
-8. Mejores prácticas 
+8. [Mejores prácticas](curso/semana_2/sesion_2.1)
 
-9. Errores comunes
+9. [Errores comunes](curso/semana_2/sesion_2.1)
 
-10. Static e Instance Methods
+10. [Value Types & Reference Types](curso/semana_2/sesion_2.2)
+
+11. [Herencia](curso/semana_2/sesion_2.3)
+
+12. [Static e Instance Methods](curso/semana_2/sesion_2.3)
 
 
 ### Semana 3 - Protocolos y Delegados
 1. Protocolos y delegados (fundamentos)
 
-2. Herencia
-
-3. Access Control 
+2. Access Control 
 
 ### Semana 4 - UIKit y Manejo de Xcode
 1. Nib y Storyboards
