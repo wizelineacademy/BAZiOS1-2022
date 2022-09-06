@@ -10,5 +10,5 @@
 
 ## :books: Para aprender más
 
-- [Git Doc] (https://git-scm.com/doc)
+- [Git Doc](https://git-scm.com/doc)
 
