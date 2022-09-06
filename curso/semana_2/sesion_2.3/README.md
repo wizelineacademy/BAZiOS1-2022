@@ -7,7 +7,7 @@
 - ¿Las estructuras y enumeraciones pueden tener herencia?
 - Menciona 3 super clases de UIKit que conozcas.
 - Menciona 3 métodos de un UIViewController a los que se les puede hacer override.
-- ¿Cuál es la diferencia entre una variable static y una variable class?
+- ¿Cuál es la diferencia entre static variable y class variable?
 - ¿Por qué es mejor usar final en nuestras clases que no tendrán herencia?
 
 ## :books: Para aprender más
