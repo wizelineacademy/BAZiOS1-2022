@@ -1,4 +1,4 @@
-![Swift Protocol](https://raw.githubusercontent.com/wizelineacademy/BAZiOS12022/main/curso/semana_3/protocolos-y-delegados/resources/header.png)
+![Swift Protocol](https://raw.githubusercontent.com/wizelineacademy/BAZiOS12022/5a4825f20c4b7e892f09861cc3b7944c96c0439f/curso/semana_3/protocolos-y-delegados/recursos/header.png)
 
 
 Protocolos y delegados
