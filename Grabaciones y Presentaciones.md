@@ -10,7 +10,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabacion Viernes 2 Sep](https://drive.google.com/file/d/1-yevD_Fnn5fth85HbPfSLxd96Oe3z1tv/view?usp=sharing)
 
 # Semana 2
-- [Martes 6 Sep - Git + Github]
+- [Martes 6 Sep - Git + Github](https://drive.google.com/file/d/1W8dPtP9W7jYTXrcehxGqabwvf2_JSofF/view?usp=sharing)[Git II Xcode](https://drive.google.com/file/d/1wN--DtzSF-n1UB_zgFkTEuFDmxq_4p9A/view?usp=sharing)
 - 📺 [Grabacion Martes 6 Sep](https://drive.google.com/file/d/1B-B5g4GZk6zZqvzLt1inHThiDWVtvh7H/view?usp=sharing)
 - [Jueves 8 Sep - Value types/Reference types]
 - 📺 [Grabacion Jueves 8 Sep]
