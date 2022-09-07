@@ -11,7 +11,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 
 # Semana 2
 - [Martes 6 Sep - Git + Github]
-- 📺 [Grabacion Martes 6 Sep]
+- 📺 [Grabacion Martes 6 Sep](https://drive.google.com/file/d/1B-B5g4GZk6zZqvzLt1inHThiDWVtvh7H/view?usp=sharing)
 - [Jueves 8 Sep - Value types/Reference types]
 - 📺 [Grabacion Jueves 8 Sep]
 - [Viernes 9 Sep - Herencia]
