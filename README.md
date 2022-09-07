@@ -51,13 +51,25 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 3. [Herencia](curso/semana_2/sesion_2.3)
 
 ### Semana 3 - Protocolos y Delegados
-1. Protocolos y delegados (fundamentos)
+
+#### 1. Protocolos y delegados (fundamentos)
 
 1.1 Definición de Protocolos
-1.2 Tipos de requerimientos
-1.3 Delegados y Patrón de diseño
+* Definición
+* Sintaxis
+* Herencia de protocolos
+* Requerimiento de herencia
+* Composición de protocolos
 
-2. Access Control 
+1.2 Tipos de requerimientos
+* Propiedades
+* Métodos
+* Inicializadores
+
+1.3 Delegados
+* Patrón de diseño y sus usos
+
+#### 2. Access Control 
 
 ### Semana 4 - UIKit y Manejo de Xcode
 1. Nib y Storyboards
