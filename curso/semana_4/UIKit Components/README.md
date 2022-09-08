@@ -8,7 +8,7 @@ Revisar los primeros pasos en UIKit, viendo sus componentes, su estructura y có
 
 - Qué es UIKit
 - Estructura de UIKit
-- Estructura de código en una UIKit app
+- Estructura de código en una app con UIKit
 - Elementos básicos de UIKit
 
 ## 🖥 Slides de la sesión

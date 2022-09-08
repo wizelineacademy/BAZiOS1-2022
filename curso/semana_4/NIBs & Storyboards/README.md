@@ -1,6 +1,6 @@
 # 📑 NIBs & Storyboards
 
-Revisar los componentes para crear una interfaz de usuario, los cuales son los NIBs o XIBs, Storyboards y mediante código puramente.
+Revisar los componentes para crear una interfaz de usuario, los cuales son los NIBs o XIBs, Storyboards y mediante puramente código.
 
 
 
