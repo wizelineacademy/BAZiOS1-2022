@@ -1,3 +1,7 @@
+# :tv: Video y Presentación
+- [Martes 30 Ago - Introducción a Swift](https://drive.google.com/file/d/1wjF9k6weNs7a_TxiOM2S6c_UYYFx4g6z/view?usp=sharing)
+- [Grabacion Martes 30 Ago](https://drive.google.com/file/d/1rdcJmIOvH5koUpASDvc8yK1ngJRIimrP/view?usp=sharing)
+
 ## :clipboard: Recursos de la lección
 
 - [Introducción a Swift](https://drive.google.com/file/d/1wjF9k6weNs7a_TxiOM2S6c_UYYFx4g6z/preview)
