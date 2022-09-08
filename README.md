@@ -33,7 +33,7 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 
 ## :bookmark_tabs: Sesiones
 
-### Semana 1 - Fundamentals
+### Semana 1
    1. [Introducción a Swift](curso/semana_1/sesion_1.1)
    2. [Opcionales y manejo de colecciones](curso/semana_1/sesion_1.2)
    3. [Frontend](pre-curso/modulo_1/sesion_1.3)
@@ -45,12 +45,12 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 4. Xcode Básico (Interface, Navigator, Editor, Debugging, Manejo de Memoria, Creación de Carpetas) "
 
 
-### Semana 2 - GIT y Value Types & Reference Types
+### Semana 2 
 1. [Git](curso/semana_2/sesion_2.1)
 2. [Value Types & Reference Types](curso/semana_2/sesion_2.2)
 3. [Herencia](curso/semana_2/sesion_2.3)
 
-### Semana 3 - Protocolos y Delegados
+### Semana 3
 
 #### 1. Protocolos y delegados (fundamentos)
 
@@ -71,7 +71,7 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 
 #### 2. Access Control 
 
-### Semana 4 - UIKit y Manejo de Xcode
+### Semana 4
 
 1. Ciclo de vida de una app
 
@@ -80,14 +80,14 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 3. UIKit y componentes básicos
 
 
-### Semana 5 - Closures y Extensiones
+### Semana 5
 1. Global functions
 
 2. Nested functions
 
 3. Closure expression
 
-### Semana 6 - ARC
+### Semana 6
 
 1. Closures
 
