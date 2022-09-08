@@ -80,12 +80,12 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 3. UIKit y componentes básicos
 
 
-### Semana 5
-1. Global functions
+### Semana 5 - Delegados, Protocolos y Extensiones
+1. Table Views & Collection Views
 
-2. Nested functions
+2. Extensiones
 
-3. Closure expression
+3. Notification Center
 
 ### Semana 6
 
