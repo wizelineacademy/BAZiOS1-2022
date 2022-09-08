@@ -72,20 +72,13 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 #### 2. Access Control 
 
 ### Semana 4 - UIKit y Manejo de Xcode
-1. Nib y Storyboards
 
-2. Ciclo de Vida
+1. Ciclo de vida de una app
 
-Controles básicos
+2. NIBs & Storyboards
 
-3. Label
-4. Button
-5. ImageView
-6. Text View
-7. Switch
-8. Slider
-9. Stepper
-10. Segmented Control 
+3. UIKit y componentes básicos
+
 
 ### Semana 5 - Closures y Extensiones
 1. Global functions
@@ -95,9 +88,12 @@ Controles básicos
 3. Closure expression
 
 ### Semana 6 - ARC
-1. Memory Mangement with ARC
 
-2. Strong Reference Cycles
+1. Closures
+
+2. ARC
+
+2. Servicios REST
 
 ## 📺 Grabaciones sesiones y Presentaciones
 
