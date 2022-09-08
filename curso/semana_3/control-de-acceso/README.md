@@ -14,7 +14,7 @@ Control de acceso
 ### Definiciones
 * Properties
 * Tipos personalizados
-* Initializers
+* Inicializadores
 * Protocols
 
 
