@@ -13,9 +13,9 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Martes 6 Sep - Git + Github](https://drive.google.com/file/d/1W8dPtP9W7jYTXrcehxGqabwvf2_JSofF/view?usp=sharing)
 - [Git II Xcode](https://drive.google.com/file/d/1wN--DtzSF-n1UB_zgFkTEuFDmxq_4p9A/view?usp=sharing)
 - 📺 [Grabacion Martes 6 Sep](https://drive.google.com/file/d/1B-B5g4GZk6zZqvzLt1inHThiDWVtvh7H/view?usp=sharing)
-- [Jueves 8 Sep - Value types/Reference types]
+- [Jueves 8 Sep - Value types/Reference types](https://drive.google.com/file/d/1rYtVol8yACfKObNQM3hbtswLr02xM14u/view?usp=sharing)
 - 📺 [Grabacion Jueves 8 Sep]
-- [Viernes 9 Sep - Herencia]
+- [Viernes 9 Sep - Herencia](https://drive.google.com/file/d/10YsLjSrx0Kdu9V9K7QVDTZ4h0eUEl12i/view?usp=sharing)
 - 📺 [Grabacion Viernes 9 Sep]
 
 # Semana 3
