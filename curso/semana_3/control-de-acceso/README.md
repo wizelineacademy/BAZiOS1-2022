@@ -1,4 +1,4 @@
-![Swift Protocol](https://raw.githubusercontent.com/wizelineacademy/BAZiOS12022/main/curso/semana_3/protocolos-y-delegados/recursos/header.png)
+![Swift Protocol](https://raw.githubusercontent.com/wizelineacademy/BAZiOS12022/ab13a3c8c378dfbbb60860f19bf711b0f0dbb7d1/curso/semana_3/control-de-acceso/recursos/header.png)
 
 Control de acceso
 -
