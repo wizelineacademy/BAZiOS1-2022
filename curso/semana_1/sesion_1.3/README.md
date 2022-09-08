@@ -1,8 +1,13 @@
-## :clipboard: Recursos de la lección
+# :tv: Video y Presentación
+- [Viernes 2 Sep - Xcode y configuracion de proyecto](https://drive.google.com/file/d/11peu6L3joAXfwvRhHyI-GA8efMStl1XF/view?usp=sharing)
+- [Grabacion Viernes 2 Sep](https://drive.google.com/file/d/1-yevD_Fnn5fth85HbPfSLxd96Oe3z1tv/view?usp=sharing)
+
+
+# :clipboard: Recursos de la lección
 
 - [Xcode y confifiguración de proyecto](https://docs.google.com/presentation/d/1RRcdyLp-OZ0NZOsin9PkXG0DRfBRzbYXM5Y8tv4Zbgc/edit#slide=id.g122bd9d92f9_1_72)
 
-## :computer: Actividades
+# :computer: Actividades
 
 - Crea un proyecto nuevo de una aplicación iOS activando el control de cambios
 - Crea 2 carpetas en el proyecto y separa los ViewController de los Storyboard.
@@ -19,6 +24,6 @@ Datos de prueba:
 
 
 
-## :books: Para aprender más
+# :books: Para aprender más
 
 - [Xcode, lo básico](https://buildfire.com/xcode-tutorial/)
