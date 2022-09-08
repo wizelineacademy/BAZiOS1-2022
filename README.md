@@ -61,22 +61,6 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 
 3 Definiciones
 
-
-2.1 Definición de Control de Accesos
-* Definición
-* Módulos y archivos fuente
-
-2.2 Nivel de accesos
-* Sintaxis
-* Nivel de acceso
-
-2.3 Definiciones
-* Properties
-* Tipos personalizados
-* Inicializadores
-* Protocols
-
-
 ### Semana 4
 
 1. [Ciclo de vida de una app](https://github.com/wizelineacademy/BAZiOS12022/tree/main/curso/semana_4/El%20ciclo%20de%20vida%20de%20una%20app)
