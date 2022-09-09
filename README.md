@@ -73,9 +73,9 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 
 1. [Ciclo de vida de una app](https://github.com/wizelineacademy/BAZiOS12022/tree/main/curso/semana_4/El%20ciclo%20de%20vida%20de%20una%20app)
 
-2. NIBs & Storyboards
+2. [NIBs & Storyboards](https://github.com/wizelineacademy/BAZiOS12022/tree/main/curso/semana_4/NIBs%20%26%20Storyboards)
 
-3. UIKit y componentes básicos
+3. [UIKit y componentes básicos](https://github.com/wizelineacademy/BAZiOS12022/tree/main/curso/semana_4/UIKit%20Components)
 
 
 ### Semana 5 - Delegados, Protocolos y Extensiones
