@@ -12,6 +12,7 @@ Revisar los componentes para crear una interfaz de usuario, los cuales son los N
 - UI puramente con código
 
 ## 🖥 Slides de la sesión
+[NIBs & Storyboards](https://github.com/wizelineacademy/BAZiOS12022/blob/main/curso/semana_4/NIBs%20%26%20Storyboards/Nibs%20y%20Storyboards.pdf)
 
 
 ## 📚 Ruta de autoaprendizaje
@@ -22,3 +23,4 @@ Revisar los componentes para crear una interfaz de usuario, los cuales son los N
 - [Evita usar NIBs y Storyboards](https://blog.devgenius.io/avoid-nib-and-storyboards-in-ios-2b75dc764b26)
 
 ## 🤓 Authors
+[Abner Castro](abner.castro@wizeline.com)

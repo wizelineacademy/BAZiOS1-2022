@@ -12,6 +12,7 @@ Revisar los primeros pasos en UIKit, viendo sus componentes, su estructura y có
 - Elementos básicos de UIKit
 
 ## 🖥 Slides de la sesión
+[UIKit y sus componentes básicos](https://github.com/wizelineacademy/BAZiOS12022/blob/main/curso/semana_4/UIKit%20Components/Intro%20to%20UIKit.pdf)
 
 
 ## 📚 Ruta de autoaprendizaje
@@ -22,3 +23,4 @@ Revisar los primeros pasos en UIKit, viendo sus componentes, su estructura y có
 - [Iniciando en Autolayout](https://www.raywenderlich.com/811496-auto-layout-tutorial-in-ios-getting-started)
 
 ## 🤓 Authors
+[Abner Castro](abner.castro@wizeline.com)

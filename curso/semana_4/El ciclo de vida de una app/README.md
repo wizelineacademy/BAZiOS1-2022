@@ -12,6 +12,7 @@ Comprender el ciclo de vida de una app desde el punto de vista de usuario, tradu
 - El Main run loop
 
 ## 🖥 Slides de la sesión
+[El ciclo de vida de una app](https://github.com/wizelineacademy/BAZiOS12022/blob/main/curso/semana_4/El%20ciclo%20de%20vida%20de%20una%20app/App%20Life%20Cycle.pdf)
 
 
 ## 📚 Ruta de autoaprendizaje
@@ -21,3 +22,4 @@ Comprender el ciclo de vida de una app desde el punto de vista de usuario, tradu
 - [Explorando el ciclo de vida de una app](https://cocoacasts.com/understanding-scene-based-applications-exploring-the-application-life-cycle)
 
 ## 🤓 Authors
+[Abner Castro](abner.castro@wizeline.com)
