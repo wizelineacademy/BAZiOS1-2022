@@ -18,3 +18,17 @@
 * Patrón de diseño y sus usos
 
 ## 2 Control de acceso
+
+### 2.1 Definición de Control de Accesos
+* Definición
+* Módulos y archivos fuente
+
+### 2.2 Nivel de accesos
+* Sintaxis
+* Nivel de acceso
+
+### 2.3 Definiciones
+* Properties
+* Tipos personalizados
+* Inicializadores
+* Protocols
