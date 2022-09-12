@@ -1,6 +1,6 @@
 ## :clipboard: Recursos de la lección
 
-- [Table Views & Collection Views](https://drive.google.com/file/d/1wjF9k6weNs7a_TxiOM2S6c_UYYFx4g6z/preview)
+- [Table Views & Collection Views](https://docs.google.com/presentation/d/19ijy6ecR5b2HtBhsZKVNv5cTvIcMoDxqOfW4ZkB0JRc/edit?usp=sharing)
 
 ## :computer: Actividades
 

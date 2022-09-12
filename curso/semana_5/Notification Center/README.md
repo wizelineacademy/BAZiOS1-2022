@@ -1,6 +1,6 @@
 ## :clipboard: Recursos de la lección
 
-- [Notification Center](https://docs.google.com/presentation/d/1RRcdyLp-OZ0NZOsin9PkXG0DRfBRzbYXM5Y8tv4Zbgc/edit#slide=id.g122bd9d92f9_1_72)
+- [Notification Center](https://docs.google.com/presentation/d/1z4tzDpAKnPGsp4Tgv6sexXnZHq6z93QDHn2SmtQjx3s/edit?usp=sharing)
 
 ## :computer: Actividades
 
