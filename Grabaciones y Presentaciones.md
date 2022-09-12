@@ -16,7 +16,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 8 Sep - Value types/Reference types](https://drive.google.com/file/d/1rYtVol8yACfKObNQM3hbtswLr02xM14u/view?usp=sharing)
 - 📺 [Grabacion Jueves 8 Sep](https://drive.google.com/file/d/12cXNB2IP65sUUH2VK0yXDuGyYtvKQSGK/view?usp=sharing)
 - [Viernes 9 Sep - Herencia](https://drive.google.com/file/d/10YsLjSrx0Kdu9V9K7QVDTZ4h0eUEl12i/view?usp=sharing)
-- 📺 [Grabacion Viernes 9 Sep]
+- 📺 [Grabacion Viernes 9 Sep](https://drive.google.com/file/d/1TNJqZGWi2uHmoCFW-miqTG24Y2jlV2nx/view?usp=sharing)
 
 # Semana 3
 - [Martes 13 Sep - Protocolos y Delegados]
