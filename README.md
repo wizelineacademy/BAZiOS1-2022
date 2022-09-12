@@ -52,32 +52,30 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 
 ### Semana 3
 
-#### 1. Protocolos y delegados (fundamentos)
+#### Protocolos y delegados (fundamentos)
 
-1.1 Definición de Protocolos
-* Definición
-* Sintaxis
-* Herencia de protocolos
-* Requerimiento de herencia
-* Composición de protocolos
+1 Definición de Protocolos
 
-1.2 Tipos de requerimientos
-* Propiedades
-* Métodos
-* Inicializadores
+2 Tipos de requerimientos
 
-1.3 Delegados
-* Patrón de diseño y sus usos
+3 Delegados
 
-#### 2. Access Control 
+#### Access Control 
+
+1 Definición de Control de Accesos
+
+2 Nivel de accesos
+
+3 Definiciones
+
 
 ### Semana 4
 
 1. [Ciclo de vida de una app](https://github.com/wizelineacademy/BAZiOS12022/tree/main/curso/semana_4/El%20ciclo%20de%20vida%20de%20una%20app)
 
-2. NIBs & Storyboards
+2. [NIBs & Storyboards](https://github.com/wizelineacademy/BAZiOS12022/tree/main/curso/semana_4/NIBs%20%26%20Storyboards)
 
-3. UIKit y componentes básicos
+3. [UIKit y componentes básicos](https://github.com/wizelineacademy/BAZiOS12022/tree/main/curso/semana_4/UIKit%20Components)
 
 
 ### Semana 5 - Delegados, Protocolos y Extensiones
