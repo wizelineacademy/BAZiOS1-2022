@@ -36,14 +36,7 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 ### Semana 1
    1. [Introducción a Swift](curso/semana_1/sesion_1.1)
    2. [Opcionales y manejo de colecciones](curso/semana_1/sesion_1.2)
-   3. [Frontend](pre-curso/modulo_1/sesion_1.3)
-
-2. Optional Chaining y Optional Binding
-
-3. Manejo de colecciones
-
-4. Xcode Básico (Interface, Navigator, Editor, Debugging, Manejo de Memoria, Creación de Carpetas) "
-
+   3. [Xcode Básico (Interface, Navigator, Editor, Creación de Carpetas)](curso/semana_1/sesion_1.3)
 
 ### Semana 2 
 1. [Git](curso/semana_2/sesion_2.1)
