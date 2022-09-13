@@ -45,21 +45,9 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 
 ### Semana 3
 
-#### Protocolos y delegados (fundamentos)
+1. [Protocolos y delegados](https://github.com/wizelineacademy/BAZiOS12022/tree/main/curso/semana_3/protocolos-y-delegados)
 
-1 Definición de Protocolos
-
-2 Tipos de requerimientos
-
-3 Delegados
-
-#### Access Control 
-
-1 Definición de Control de Accesos
-
-2 Nivel de accesos
-
-3 Definiciones
+2. [Control de Accesos](https://github.com/wizelineacademy/BAZiOS12022/tree/main/curso/semana_3/control-de-acceso)
 
 ### Semana 4
 
