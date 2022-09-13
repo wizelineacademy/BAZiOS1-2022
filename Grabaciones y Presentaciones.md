@@ -19,9 +19,9 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabacion Viernes 9 Sep](https://drive.google.com/file/d/1TNJqZGWi2uHmoCFW-miqTG24Y2jlV2nx/view?usp=sharing)
 
 # Semana 3
-- [Martes 13 Sep - Protocolos y Delegados]
+- [Martes 13 Sep - Protocolos y Delegados](https://drive.google.com/file/d/1FOKocm5xboIw4M47S59OxK1jkMpYzjWz/view?usp=sharing)
 - 📺 [Grabacion Martes 13 Sep]
-- [Jueves 15 Sep - Access Controls]
+- [Jueves 15 Sep - Access Controls](https://drive.google.com/file/d/1-C7uDAtt-62pQMsbLxOu0DCR2-ur1D1F/view?usp=sharing)
 - 📺 [Grabacion Jueves 15 Sep]
 
 
