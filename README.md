@@ -82,7 +82,7 @@ En [esta liga](https://github.com/wizelineacademy/BAZiOS12022/blob/main/Grabacio
 ✴️ **Objetivo**
 Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzaras y aplicaras los conocimientos que vas adquiriendo 
 
-[Aquí](https://docs.google.com/forms/d/e/1FAIpQLSfph0PuA8ZN7U98Mm5ClAHLEI2t7z8jkZnxLXnijwYDWUEp2g/viewform) encontrarás las instrucciones para completar tu Projecto final.
+[Aquí](https://github.com/wizelineacademy/baz-ios-project-c1-2022) encontrarás las instrucciones para completar tu Projecto final.
 
 # V. Agenda tu mentoria 📆
 Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, sigue estas instrucciones:
