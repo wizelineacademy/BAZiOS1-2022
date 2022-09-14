@@ -59,11 +59,11 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 
 
 ### Semana 5 - Delegados, Protocolos y Extensiones
-1. Table Views & Collection Views
+1. [Table Views & Collection Views](https://github.com/wizelineacademy/BAZiOS12022/tree/main/curso/semana_5/TableView%20%26%20CollectionView)
 
-2. Extensiones
+2. [Extensiones](https://github.com/wizelineacademy/BAZiOS12022/tree/main/curso/semana_5/Extensiones)
 
-3. Notification Center
+3. [Notification Center](https://github.com/wizelineacademy/BAZiOS12022/tree/main/curso/semana_5/Notification%20Center)
 
 ### Semana 6
 
