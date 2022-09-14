@@ -100,7 +100,7 @@ Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendar
 - [Michel Torres](https://calendly.com/michel-torres-alonso/baz-mentoria-1-1)
 - [Alejandro Martínez](https://calendly.com/alejandro-mb/mentorias-baz)
 - [Abner Castro](https://calendly.com/abner-castro/baz-mentoria-1-1)
-- [Josue Quiñonez]
+- [Josue Quiñonez](https://calendly.com/josue-quinones-rivera/baz-mentoria-online-on-demand)
 
 
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
