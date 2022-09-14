@@ -84,6 +84,8 @@ Para aprobar el curso tendrás que desarrollar un proyecto final en el cual refo
 
 [Aquí](https://github.com/wizelineacademy/baz-ios-project-c1-2022) encontrarás las instrucciones para completar tu Projecto final.
 
+Para la revisión de tu Capstone Project se te asignó un mentor 
+
 # V. Agenda tu mentoria 📆
 Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, sigue estas instrucciones:
 
@@ -94,7 +96,7 @@ Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendar
 - [Ana Anguiano](https://calendly.com/ana-anguiano/baz-mentoria-1-1)
 - [Michel Torres](https://calendly.com/michel-torres-alonso/baz-mentoria-1-1)
 - [Alejandro Martínez](https://calendly.com/alejandro-mb/mentorias-baz)
-- [Abner Castro]
+- [Abner Castro](https://calendly.com/abner-castro/baz-mentoria-1-1)
 - [Josue Quiñonez]
 
 
