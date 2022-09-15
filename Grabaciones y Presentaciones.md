@@ -22,7 +22,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Martes 13 Sep - Protocolos y Delegados](https://drive.google.com/file/d/1FOKocm5xboIw4M47S59OxK1jkMpYzjWz/view?usp=sharing)
 - 📺 [Grabacion Martes 13 Sep](https://drive.google.com/file/d/17vb9ZVJfIUF-w_dmNreZ75lIBeuHmss7/view?usp=sharing)
 - [Jueves 15 Sep - Access Controls](https://drive.google.com/file/d/1-C7uDAtt-62pQMsbLxOu0DCR2-ur1D1F/view?usp=sharing)
-- 📺 [Grabacion Jueves 15 Sep]
+- 📺 [Grabacion Jueves 15 Sep](https://drive.google.com/file/d/1b-mqbahh-JD2qPi_IY0u_m4P1vrSJvX4/view?usp=sharing)
 
 
 # Semana 4
