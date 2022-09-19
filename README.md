@@ -86,8 +86,19 @@ Para aprobar el curso tendrás que desarrollar un proyecto final en el cual refo
 
 Para la revisión de tu Capstone Project se te asignó un mentor, el cual te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
 
-
-![Asignacion Mentores](https://user-images.githubusercontent.com/89619437/190250707-d7e906f6-47bc-4a61-ab8c-910242c4bf0c.png)
+| ID Empleado | Nombre                              | Mentor |
+| ----------: | :---------------------------------- | :-------------------------- |
+| 1030361     | CARLOS ALEXIS CEDEÑO MARTINEZ       | Alejandro Martinez Barragan |
+| 1029188     | CARLOS NITSUGA HERNANDEZ HERNANDEZ  | Alejandro Martinez Barragan |
+| 96702       | ELEAZAR FLORES COTE                 | Uriel Pachecho              |
+| 1044336     | MARCELO AGUILAR BRAVO               | Uriel Pachecho              |
+| 291732      | MOISES ABRAHAM VAZQUEZ PEREZ        | Michel Torres Alonso        |
+| 1054812     | MAYTE LOPEZ AGUILAR                 | Michel Torres Alonso        |
+| 961184      | OSCAR VERA ORTIZ                    | Jorge Benavides Ojinaga     |
+| 1017133     | FERNANDO GARCIA HERNANDEZ           | Josue Quiñonez Rivera       |
+| 1029186     | RAUL EMMANUEL ESCALANTE FLORES      | Abner Castro Aguilar        |
+| 1068200     | JACOBO EMMANUEL DIAZ RODRIGUEZ      | Abner Castro Aguilar        |
+| 90443       | ROCIO DELIA NUÑEZ ITEHUA            | Ana Anguiano Cruz           |
 
 # V. Agenda tu mentoria 📆
 Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, sigue estas instrucciones:
