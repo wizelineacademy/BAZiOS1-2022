@@ -1,6 +1,6 @@
 # 🧲 ARC
 
-Comprender cómo funciona ARC y cómo manejar las situaciones que podrían llevar a un strong cycle. Entender los strong cycles y cómo evitarlos a través del código de cualquier app.
+Comprender cómo funciona ARC y cómo manejar las situaciones que podrían llevar a un _strong cycle_. Entender los _strong cycles_ y cómo evitarlos a través de código de cualquier app.
 
 
 
