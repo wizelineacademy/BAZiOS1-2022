@@ -29,7 +29,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Martes 20 Sep - Ciclo de Vida]
 - 📺 [Grabacion Martes 20 Sep](https://drive.google.com/file/d/1hp3omPio5bDgtbgcooM6mGDk1zpHPj8w/view?usp=sharing)
 - [Jueves 22 Sep - Nib y Storyboards]
-- 📺 [Grabacion Jueves 22 Sep]
+- 📺 [Grabacion Jueves 22 Sep](https://drive.google.com/file/d/1Vhmgeix3gr-ftdwJsLKtzcxHGxP-P5sp/view?usp=sharing)
 - [Viernes 23 Sep - Controles básicos (UIKit)]
 - 📺 [Viernes 23 Sep]
 
