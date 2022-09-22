@@ -1,6 +1,6 @@
 # 🔨 Closures
 
-Entender y explorar los closures, cómo funcionan, los diversos usos que se le pueden dar y saber cómo manejar la captura de valores que hacen para un eficiente uso de la memoria y evitar strong reference cycles
+Entender y explorar los closures, cómo funcionan, los diversos usos que se le pueden dar y saber cómo manejar la captura de valores que hacen para un eficiente uso de la memoria y evitar _strong reference cycles_
 
 
 
