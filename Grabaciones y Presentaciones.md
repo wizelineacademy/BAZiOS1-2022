@@ -31,7 +31,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 22 Sep - Nib y Storyboards](https://drive.google.com/file/d/1yvq9fazePQgBeuD3opnRFnznvs5b8kqC/view?usp=sharing)
 - 📺 [Grabacion Jueves 22 Sep](https://drive.google.com/file/d/1Vhmgeix3gr-ftdwJsLKtzcxHGxP-P5sp/view?usp=sharing)
 - [Viernes 23 Sep - Controles básicos (UIKit)](https://drive.google.com/file/d/1bzP3-WnID5cE1QQezBDVW5NnddfeenC_/view?usp=sharing)
-- 📺 [Viernes 23 Sep]
+- 📺 [Viernes 23 Sep](https://drive.google.com/file/d/1smm488rRFDX1NdYv_Yxf-Begw-gsr5LL/view?usp=sharing)
 
 # Semana 5
 - [Martes 27 Sep - Extensiones]
