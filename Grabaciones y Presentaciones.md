@@ -26,11 +26,11 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 
 
 # Semana 4
-- [Martes 20 Sep - Ciclo de Vida]
+- [Martes 20 Sep - Ciclo de Vida](https://drive.google.com/file/d/1gMJVtHI9FDlY8YPx9FsafwzRr05InlX8/view?usp=sharing)
 - 📺 [Grabacion Martes 20 Sep](https://drive.google.com/file/d/1hp3omPio5bDgtbgcooM6mGDk1zpHPj8w/view?usp=sharing)
-- [Jueves 22 Sep - Nib y Storyboards]
+- [Jueves 22 Sep - Nib y Storyboards](https://drive.google.com/file/d/1yvq9fazePQgBeuD3opnRFnznvs5b8kqC/view?usp=sharing)
 - 📺 [Grabacion Jueves 22 Sep](https://drive.google.com/file/d/1Vhmgeix3gr-ftdwJsLKtzcxHGxP-P5sp/view?usp=sharing)
-- [Viernes 23 Sep - Controles básicos (UIKit)]
+- [Viernes 23 Sep - Controles básicos (UIKit)](https://drive.google.com/file/d/1bzP3-WnID5cE1QQezBDVW5NnddfeenC_/view?usp=sharing)
 - 📺 [Viernes 23 Sep]
 
 # Semana 5
