@@ -67,11 +67,11 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 
 ### Semana 6
 
-1. Closures
+1. [Closures](https://github.com/wizelineacademy/BAZiOS12022/tree/main/curso/semana_6/Closures)
 
-2. ARC
+2. [ARC](https://github.com/wizelineacademy/BAZiOS12022/tree/main/curso/semana_6/ARC)
 
-2. Servicios REST
+2. [Servicios REST](https://github.com/wizelineacademy/BAZiOS12022/tree/main/curso/semana_6/Servicios%20REST)
 
 ## 📺 Grabaciones sesiones y Presentaciones
 
