@@ -13,7 +13,7 @@
 
 ## :computer: Actividades
 
-- Crea una estructura y utilizando extensiones crea distintos inizializadores de manera que se pueda seguir usando el inicializador por defecto
+- Crea una estructura y utilizando extensiones crea distintos inicializadores de manera que se pueda seguir usando el inicializador por defecto
 -  Crea una función o variable que limpie una cadena y cambie los espacios por "@"
 - Modifica el proyecto utilizando de manera correcta las extensiones para refactorizar el código.
 
