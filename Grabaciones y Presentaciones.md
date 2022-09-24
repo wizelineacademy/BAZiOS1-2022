@@ -19,19 +19,19 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabacion Viernes 9 Sep](https://drive.google.com/file/d/1TNJqZGWi2uHmoCFW-miqTG24Y2jlV2nx/view?usp=sharing)
 
 # Semana 3
-- [Martes 13 Sep - Protocolos y Delegados]
-- 📺 [Grabacion Martes 13 Sep]
-- [Jueves 15 Sep - Access Controls]
-- 📺 [Grabacion Jueves 15 Sep]
+- [Martes 13 Sep - Protocolos y Delegados](https://drive.google.com/file/d/1FOKocm5xboIw4M47S59OxK1jkMpYzjWz/view?usp=sharing)
+- 📺 [Grabacion Martes 13 Sep](https://drive.google.com/file/d/17vb9ZVJfIUF-w_dmNreZ75lIBeuHmss7/view?usp=sharing)
+- [Jueves 15 Sep - Access Controls](https://drive.google.com/file/d/1-C7uDAtt-62pQMsbLxOu0DCR2-ur1D1F/view?usp=sharing)
+- 📺 [Grabacion Jueves 15 Sep](https://drive.google.com/file/d/1b-mqbahh-JD2qPi_IY0u_m4P1vrSJvX4/view?usp=sharing)
 
 
 # Semana 4
-- [Martes 20 Sep - Ciclo de Vida]
-- 📺 [Grabacion Martes 20 Sep]
-- [Jueves 22 Sep - Nib y Storyboards]
-- 📺 [Grabacion Jueves 22 Sep]
-- [Viernes 23 Sep - Controles básicos (UIKit)]
-- 📺 [Viernes 23 Sep]
+- [Martes 20 Sep - Ciclo de Vida](https://drive.google.com/file/d/1gMJVtHI9FDlY8YPx9FsafwzRr05InlX8/view?usp=sharing)
+- 📺 [Grabacion Martes 20 Sep](https://drive.google.com/file/d/1hp3omPio5bDgtbgcooM6mGDk1zpHPj8w/view?usp=sharing)
+- [Jueves 22 Sep - Nib y Storyboards](https://drive.google.com/file/d/1yvq9fazePQgBeuD3opnRFnznvs5b8kqC/view?usp=sharing)
+- 📺 [Grabacion Jueves 22 Sep](https://drive.google.com/file/d/1Vhmgeix3gr-ftdwJsLKtzcxHGxP-P5sp/view?usp=sharing)
+- [Viernes 23 Sep - Controles básicos (UIKit)](https://drive.google.com/file/d/1bzP3-WnID5cE1QQezBDVW5NnddfeenC_/view?usp=sharing)
+- 📺 [Viernes 23 Sep](https://drive.google.com/file/d/1smm488rRFDX1NdYv_Yxf-Begw-gsr5LL/view?usp=sharing)
 
 # Semana 5
 - [Martes 27 Sep - Extensiones]

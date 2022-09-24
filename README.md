@@ -36,14 +36,7 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 ### Semana 1
    1. [Introducción a Swift](curso/semana_1/sesion_1.1)
    2. [Opcionales y manejo de colecciones](curso/semana_1/sesion_1.2)
-   3. [Frontend](pre-curso/modulo_1/sesion_1.3)
-
-2. Optional Chaining y Optional Binding
-
-3. Manejo de colecciones
-
-4. Xcode Básico (Interface, Navigator, Editor, Debugging, Manejo de Memoria, Creación de Carpetas) "
-
+   3. [Xcode Básico (Interface, Navigator, Editor, Creación de Carpetas)](curso/semana_1/sesion_1.3)
 
 ### Semana 2 
 1. [Git](curso/semana_2/sesion_2.1)
@@ -52,22 +45,9 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 
 ### Semana 3
 
-#### Protocolos y delegados (fundamentos)
+1. [Protocolos y delegados](https://github.com/wizelineacademy/BAZiOS12022/tree/main/curso/semana_3/protocolos-y-delegados)
 
-1 Definición de Protocolos
-
-2 Tipos de requerimientos
-
-3 Delegados
-
-#### Access Control 
-
-1 Definición de Control de Accesos
-
-2 Nivel de accesos
-
-3 Definiciones
-
+2. [Control de Accesos](https://github.com/wizelineacademy/BAZiOS12022/tree/main/curso/semana_3/control-de-acceso)
 
 ### Semana 4
 
@@ -79,11 +59,11 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 
 
 ### Semana 5 - Delegados, Protocolos y Extensiones
-1. Table Views & Collection Views
+1. [Table Views & Collection Views](https://github.com/wizelineacademy/BAZiOS12022/tree/main/curso/semana_5/TableView%20%26%20CollectionView)
 
-2. Extensiones
+2. [Extensiones](https://github.com/wizelineacademy/BAZiOS12022/tree/main/curso/semana_5/Extensiones)
 
-3. Notification Center
+3. [Notification Center](https://github.com/wizelineacademy/BAZiOS12022/tree/main/curso/semana_5/Notification%20Center)
 
 ### Semana 6
 
@@ -102,7 +82,23 @@ En [esta liga](https://github.com/wizelineacademy/BAZiOS12022/blob/main/Grabacio
 ✴️ **Objetivo**
 Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzaras y aplicaras los conocimientos que vas adquiriendo 
 
-[Aquí](https://docs.google.com/forms/d/e/1FAIpQLSfph0PuA8ZN7U98Mm5ClAHLEI2t7z8jkZnxLXnijwYDWUEp2g/viewform) encontrarás las instrucciones para completar tu Projecto final.
+[Aquí](https://github.com/wizelineacademy/baz-ios-project-c1-2022) encontrarás las instrucciones para completar tu Projecto final.
+
+Para la revisión de tu Capstone Project se te asignó un mentor, el cual te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
+
+| ID Empleado | Nombre                              | Mentor |
+| ----------: | :---------------------------------- | :-------------------------- |
+| 1030361     | CARLOS ALEXIS CEDEÑO MARTINEZ       | Alejandro Martinez Barragan |
+| 1029188     | CARLOS NITSUGA HERNANDEZ HERNANDEZ  | Alejandro Martinez Barragan |
+| 96702       | ELEAZAR FLORES COTE                 | Uriel Pachecho              |
+| 1044336     | MARCELO AGUILAR BRAVO               | Uriel Pachecho              |
+| 291732      | MOISES ABRAHAM VAZQUEZ PEREZ        | Michel Torres Alonso        |
+| 1054812     | MAYTE LOPEZ AGUILAR                 | Michel Torres Alonso        |
+| 961184      | OSCAR VERA ORTIZ                    | Jorge Benavides Ojinaga     |
+| 1017133     | FERNANDO GARCIA HERNANDEZ           | Josue Quiñonez Rivera       |
+| 1029186     | RAUL EMMANUEL ESCALANTE FLORES      | Abner Castro Aguilar        |
+| 1068200     | JACOBO EMMANUEL DIAZ RODRIGUEZ      | Abner Castro Aguilar        |
+| 90443       | ROCIO DELIA NUÑEZ ITEHUA            | Ana Anguiano Cruz           |
 
 # V. Agenda tu mentoria 📆
 Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, sigue estas instrucciones:
@@ -114,7 +110,8 @@ Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendar
 - [Ana Anguiano](https://calendly.com/ana-anguiano/baz-mentoria-1-1)
 - [Michel Torres](https://calendly.com/michel-torres-alonso/baz-mentoria-1-1)
 - [Alejandro Martínez](https://calendly.com/alejandro-mb/mentorias-baz)
-- [Mario Salas](https://calendly.com/luis-mario-salas/baz-mentoria-1-1)
+- [Abner Castro](https://calendly.com/abner-castro/baz-mentoria-1-1)
+- [Josue Quiñonez](https://calendly.com/josue-quinones-rivera/baz-mentoria-online-on-demand)
 
 
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
