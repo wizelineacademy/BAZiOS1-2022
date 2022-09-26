@@ -2,9 +2,10 @@
 
 ## Contenido
 
-- Concepto de notification center
-- Posibles usos
-- Usar el notification center custom de manera local.
+- ¿Qué es el centro de notificaciones?
+- Envío de notificaciones
+- Observadores
+- Envío de información
 
 ## :clipboard: Recursos de la lección
 
