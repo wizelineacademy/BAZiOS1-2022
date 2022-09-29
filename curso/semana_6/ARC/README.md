@@ -12,12 +12,12 @@ Comprender cómo funciona ARC y cómo manejar las situaciones que podrían lleva
 - Strong Reference Cycles en Closures
 
 ## 🖥 Slides de la sesión
-TODO:
-ARC
+[ARC](https://drive.google.com/file/d/1fKVBqfN4uq3a7Eko5b-BhXPzlwS6MjsB/view?usp=sharing)
 
 
 ## 📚 Ruta de autoaprendizaje
-TODO:
+[Qué es ARC](https://alexandrefreire.com/arc-swift/que-es-arc-swift/)
+
 
 ## 🤓 Authors
 [Abner Castro](abner.castro@wizeline.com)
