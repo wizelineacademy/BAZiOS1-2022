@@ -35,7 +35,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 
 # Semana 5
 - [Martes 27 Sep - Extensiones](https://drive.google.com/file/d/1stljWV5-hmVd29NkRLRMTwvPrOAd2hiy/view?usp=sharing)
-- 📺 [Grabacion Martes 27 Sep]
+- 📺 [Grabacion Martes 27 Sep](https://drive.google.com/file/d/1nU6Mefioyx9dy3v21qPTYafHnscoti3F/view?usp=sharing)
 - [Jueves 29 Sep - Notification Center](https://drive.google.com/file/d/1GF-IC8jk076fnINkYSpTzV91nAIzIAhx/view?usp=sharing)
 - 📺 [Grabacion Jueves 29 Sep](https://drive.google.com/file/d/1OvgId_iFsz-b46InwONH1NioehVf9gzC/view?usp=sharing)
 - [Viernes 30 Sep - Table Views & Collection Views](https://drive.google.com/file/d/1l_Qv4AJfT3EcMFQRWKknwqwHkqojrYKZ/view?usp=sharing)
