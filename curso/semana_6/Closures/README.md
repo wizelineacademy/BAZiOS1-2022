@@ -18,7 +18,9 @@ Entender y explorar los closures, cómo funcionan, los diversos usos que se le p
 
 ## 📚 Ruta de autoaprendizaje
 [Qué es un closure](https://alexandrefreire.com/closures/)
+
 [Closures en español](https://www.swiftbeta.com/closures-en-swift/)
+
 [Closures: todo lo que necesitas saber](https://www.youtube.com/watch?v=LJ-crWDgrDU)
 
 ## 🤓 Authors
