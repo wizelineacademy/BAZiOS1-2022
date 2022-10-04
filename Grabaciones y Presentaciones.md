@@ -48,4 +48,3 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabacion Jueves 6 Oct]
 - [Viernes 7 Oct - ARC]
 - 📺 [Viernes 7 Oct]
-
