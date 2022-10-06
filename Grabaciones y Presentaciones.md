@@ -44,7 +44,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 # Semana 6
 - [Martes 4 Oct - Closures](https://drive.google.com/file/d/1FMIHKB2M5klisvNQP-ZriERjwpt54W6k/view?usp=sharing)
 - 📺 [Grabacion Martes 4 Oct](https://drive.google.com/file/d/1CwwTt80OBWX2OWD33h2yDWTiiA3qdsvS/view?usp=sharing)
-- [Jueves 6 Oct - Servicio REST]
+- [Jueves 6 Oct - Servicio REST](https://drive.google.com/file/d/1Hji-XPf1QQlnAwm7Ar7_1I5ofdb2HtMK/view?usp=sharing)
 - 📺 [Grabacion Jueves 6 Oct]
 - [Viernes 7 Oct - ARC]
 - 📺 [Viernes 7 Oct]
